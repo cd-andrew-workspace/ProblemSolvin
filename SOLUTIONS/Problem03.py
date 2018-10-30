@@ -6,3 +6,4 @@ def problem03(s):
         else:
             myDict[term] = 1
     return myDict
+print(problem03("Test String"))
